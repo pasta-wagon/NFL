@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://wallpaperset.com/w/full/5/2/6/199622.jpg);
+    background-size: cover; 
+    background-attachment: fixed;
+    color: orangered;
+
+}
+.heading{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    margin-top: 100px;
+
+}
+#head{
+    font-size: 7.2em;
+}
+#subheading{
+    font-size: 35px;
+    margin-top: 10px;
+}
+#content1{
+    width: 90%;
+    margin: auto;
+    display: inline-block;
+}
+form{
+    background-color: rgba(red, green, blue, alpha);
+    padding-top: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 54%;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 10px;
+    padding-bottom: 60px;
+    font-size: 30px;
+}
+form .option1{
+    width: 70.5%;
+    height: 2.0em;
+    position: relative;
+    bottom: 10px;
+    border: 0;
+    border-radius: 5px;
+    font-size: larger;
+}
+form .container{
+    width: 50.5%;
+    height: 2.0em;
+    position:relative;
+    bottom: 10px;
+    border:0;
+    border-radius: 5px;
+    margin:auto;
+}
+#option1 select{
+    width: 80.5%;
+    height: 2.0em;
+    position:center;
+    bottom: 10px;
+    border:0;
+    border-radius: 5px;
+    margin:auto;
+    display: inline-block;
+}
+#content1 input{
+    width: 80.5%;
+    height: 2em;
+    position:relative;
+    top: 0px;
+    bottom: 0px;
+    border:0;
+    border-radius: 5px;
+    margin:auto;
+}
+#content2{
+    margin-top: 10px;
+}
+#head2 textarea{
+    width: 98.5%;
+    height: 100px;
+    position: relative;
+    top: 10px;
+}
+button{
+    width: 98.5%;
+    height: 5em; 
+    position: relative;
+    top: 11px;
+    background-color: orangered;
+    border: none;
+}
+textarea{
+    font-style: normal;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
